@@ -1,3 +1,3 @@
 This is the first .txt file for Git
-Making changes in the file
-gggggggggggggg
+making changes in script1
+script1 updated
